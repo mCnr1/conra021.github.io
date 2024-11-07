@@ -333,13 +333,13 @@ nav a:hover {
   }
 
   @keyframes colorChange {
-    0% { color: #ff6347; }    /* Tomato */
-    16.6% { color: #ff7e68; } /* SlateBlue */
-    33.3% { color: #ff7f68; } /* LimeGreen */
-    50% { color: #ff8873; }   /* Gold */
-    66.6% { color: #ff9f8f; } /* OrangeRed */
-    83.3% { color: #ffbcb0; } /* DarkTurquoise */
-    100% { color: #ff6347; }  /* Back to Tomato */
+    0% { color: #ff6347; } 
+    16.6% { color: #ff7e68; } 
+    33.3% { color: #ff7f68; } 
+    50% { color: #ff8873; }   
+    66.6% { color: #ff9f8f; } 
+    83.3% { color: #ffbcb0; } 
+    100% { color: #ff6347; }  
 }
 
 .q1 {
